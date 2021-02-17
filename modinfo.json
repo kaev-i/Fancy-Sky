@@ -1,0 +1,14 @@
+{
+  "type": "theme",
+  "modid": "fancysky",
+  "name": "Fancy Sky",
+  "authors": [ "KaEv" ],
+  "description": "New skybox textures with round Sun and Moon",
+  "website": "https://www.twitch.tv/kaev_i",
+  "website": "https://github.com/kaev-i/Fancy-Sky/",
+  "side": "client",
+    "version": "1.14.0-1.0.0",
+  "dependency": {
+    "game": "1.14.0"
+  }
+   }
